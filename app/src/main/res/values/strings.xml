@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FingerPrintAuth</string>
+    <string name="err_msg">Denied! Unrecognised FingerPrint</string>
+    <string name="success_msg">Fingerprint recognised</string>
+    <string name="msg">Verify print to continue</string>
+</resources>
